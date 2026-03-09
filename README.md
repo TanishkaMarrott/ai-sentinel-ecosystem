@@ -7,6 +7,8 @@ Autonomous multi-agent system for AWS account governance — three Claude agents
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic_v2-E92063?logo=pydantic&logoColor=white)
 ![CI](https://github.com/TanishkaMarrott/ai-sentinel-ecosystem/actions/workflows/ci.yml/badge.svg)
+![Tests](https://img.shields.io/badge/Tests-13%20passing-brightgreen)
+![Coverage](https://img.shields.io/badge/Coverage-39%25%20schema%2Ftools-yellow)
 
 **Validated across 49 runs, 30 scenarios — 98.4% detection accuracy, zero false-positive quarantines.**
 
