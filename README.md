@@ -12,6 +12,9 @@ Autonomous multi-agent system for AWS account governance — three Claude agents
 
 **Validated across 49 runs, 30 scenarios — 98.4% detection accuracy, zero false-positive quarantines.**
 
+
+> *Portfolio extraction of work built at KodeKloud, Feb–Mar 2026. Commit timeline reflects the original development.*
+
 ---
 
 ## The Problem
