@@ -200,7 +200,7 @@ Includes adversarial test cases, scale-up/scale-down patterns, multi-organizatio
 | Variable | Required | Default | Description |
 |----------|----------|---------|-------------|
 | `ANTHROPIC_API_KEY` | Yes | — | Claude API key |
-| `ANTHROPIC_MODEL` | No | `claude-opus-4-6` | Model selection |
+| `ANTHROPIC_MODEL` | No | `claude-opus-4-7` | Model selection |
 | `COST_THRESHOLD_USD` | No | `50.0` | Monthly cost threshold for flagging |
 | `DEMO_MODE` | No | `true` | Use simulated data (no AWS credentials needed) |
 | `AWS_ACCESS_KEY_ID` | If DEMO_MODE=false | — | AWS credentials |
